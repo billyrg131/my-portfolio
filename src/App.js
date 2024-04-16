@@ -43,7 +43,7 @@ function App() {
 				<div className="nav">
 					<p style={{ fontSize: '26px' }}>Bill Rogers</p>
 					<p style={{ fontSize: '26px' }}>
-						<a href="#main">Projects</a>
+						<a href=".main">Home</a>
 					</p>
 					<p style={{ fontSize: '26px' }}>
 						<a href="#about">Projects</a>
