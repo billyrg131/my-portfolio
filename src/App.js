@@ -1,8 +1,8 @@
-import Todo from '../assets/todos.png';
-import Weather from '../assets/likeweather.png';
-import Quiz from '../assets/quiz.png';
-import Crud from '../assets/firestore-crud.png';
-import Mern from '../assets/mern-crud.png';
+import Todo from './assets/todos.png';
+import Weather from './assets/likeweather.png';
+import Quiz from './assets/quiz.png';
+import Crud from './assets/firestore-crud.png';
+import Mern from './assets/mern-crud.png';
 import { useState, useEffect, useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import TextTransition, { presets } from 'react-text-transition';
