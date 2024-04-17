@@ -42,7 +42,7 @@ function App() {
 			<div className="main">
 				<div className="nav">
 					<p id="name-hd" style={{ fontSize: '28px' }}>
-						<a href="https://billyrg131.giithub.io/my-portfolio/">
+						<a href="https://billyrg131.github.io/my-portfolio/">
 							Bill Rogers
 						</a>
 					</p>
