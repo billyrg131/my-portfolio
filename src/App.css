@@ -47,6 +47,10 @@
 
 	width: 100vw;
 }
+#name-hd {
+	font-weight: bolder;
+	text-decoration: none;
+}
 .nav {
 	background-color: red;
 	display: grid;
