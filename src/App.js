@@ -43,7 +43,7 @@ function App() {
 				<div className="nav">
 					<p id="name-hd" style={{ fontSize: '28px' }}>
 						<a href="https://billyrg131.github.io/my-portfolio/">
-							Bill Rogers Mutende
+							Bill Rogers
 						</a>
 					</p>
 					<p style={{ fontSize: '26px' }}>
@@ -197,3 +197,4 @@ function App() {
 }
 
 export default App;
+
